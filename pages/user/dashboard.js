@@ -14,6 +14,7 @@ const useStyles = makeStyles((theme) => ({
 
   CardMedia: {
     paddingTop: '56%'
+    
   },
 
   buttonAdd: {
